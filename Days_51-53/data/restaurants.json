@@ -1,0 +1,42 @@
+[
+  {
+    "id": "r1",
+    "name": "asdfasdfasdf",
+    "address": "asdfasdfasdf",
+    "cuisine": "asdfasdf",
+    "website": "",
+    "description": "asdfasdf"
+  },
+  {
+    "id": "r2",
+    "name": "eatwell",
+    "address": "krasickiego 234",
+    "cuisine": "?????",
+    "website": "",
+    "description": "aaa"
+  },
+  {
+    "id": "r3",
+    "name": "asdfasdf",
+    "address": "asdfasdf",
+    "cuisine": "asdfasdf",
+    "website": "",
+    "description": "asdfasdf"
+  },
+  {
+    "id": "r4",
+    "name": "hasdfh",
+    "address": "fhshf",
+    "cuisine": "asdfhh",
+    "website": "",
+    "description": "asdl;kl;asfh"
+  },
+  {
+    "name": "testing test",
+    "address": "Longstreet 2",
+    "cuisine": "Mexican",
+    "website": "google.com",
+    "description": "very good!",
+    "id": "fc7f5120-7b26-471c-9ba3-68841974cb11"
+  }
+]
